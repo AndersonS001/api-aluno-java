@@ -11,8 +11,8 @@ services:
         constraints:
           - node.role == manager
 
-  api:
-    image: anderson0000/spring-api
+  apialuno:
+    image: anderson0000/apialuno
     deploy:
       replicas: 3
       restart_policy:
