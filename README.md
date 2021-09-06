@@ -30,6 +30,6 @@ O Banco de dados utilizado no projeto é o MongoDB Atlas
 
 ### Docker
 
-A imagem pode ser encontrada no [Hub](https://hub.docker.com/repository/docker/anderson0000/apialuno)
+A imagem pode ser encontrada no [Docker Hub](https://hub.docker.com/repository/docker/anderson0000/apialuno)
 
 Aplicação preparada para rodar em cluster Swarm
