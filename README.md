@@ -30,7 +30,7 @@ docker service ls
 docker stack ps apialuno
 ```
 
-Para encerrar todos os services
+Para encerrar todos os serviços
 
 ```shell
 docker stack rm apialuno
