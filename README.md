@@ -28,10 +28,13 @@ docker stack ps apialuno
 docker service ls
 
 docker stack ps apialuno
-
-docker stack rm apialuno
 ```
 
+Para encerrar todos os services
+
+```shell
+docker stack rm apialuno
+```
 ## ENDPOINTS
 
 A documentação da API pode ser encontrada no [Swagger](http://localhost:8080/swagger-ui.html)
