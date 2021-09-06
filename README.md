@@ -26,8 +26,6 @@ docker stack deploy -c docker-compose.yml apialuno
 docker stack ps apialuno
 
 docker service ls
-
-docker stack ps apialuno
 ```
 
 Para encerrar todos os serviços
