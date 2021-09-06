@@ -15,7 +15,21 @@ Para executar a aplicação localmente, é necessário possuir instalado e confi
 Para executar a aplicação é necessário clonar o projeto:
 
 ```shell
+docker network create -d overlay net
+
 git clone https://github.com/AndersonS001/api-aluno-java.git
+
+cd api-aluno-java
+
+docker stack deploy -c docker-compose.yml apialuno
+
+docker stack ps apialuno
+
+docker service ls
+
+docker stack ps apialuno
+
+docker stack rm apialuno
 ```
 
 ## ENDPOINTS
