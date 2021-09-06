@@ -27,3 +27,8 @@ A documentação da API pode ser encontrada no [Swagger](http://localhost:8080/s
 ### Banco de Dados
 
 O Banco de dados utilizado no projeto é o MongoDB Atlas
+
+### Docker
+
+A imagem pode ser encontrada no [Hub](https://hub.docker.com/repository/docker/anderson0000/apialuno)
+Aplicação preparada para rodar em cluster Swarm
