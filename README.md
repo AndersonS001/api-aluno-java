@@ -1,4 +1,4 @@
-# API ALUNPO - JAVA
+# API ALUNO - JAVA
 
 ## Configurando o Ambiente
 
