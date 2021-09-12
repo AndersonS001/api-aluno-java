@@ -50,9 +50,12 @@ A imagem pode ser encontrada no [Docker Hub](https://hub.docker.com/repository/d
 Aplicação preparada para rodar em cluster Swarm
 
 
+### Topologia da Solução
+
+![Topologia Solução](https://user-images.githubusercontent.com/31575796/132967830-cc668564-73a7-4320-bfaf-f1b7c485367b.png)
+
+
 ### Video Demonstrativo
-
-
 
 https://user-images.githubusercontent.com/31575796/132954612-709ee825-41c4-4781-9c59-9c37523685f9.mp4
 
